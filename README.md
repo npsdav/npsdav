@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nirender Prakash Singh
-- 👀 I’m interested in coding Py
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in coding using Python
+- 🌱 I’m currently teaching Python in class IX to XII
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me nirenderprakash@gmail.com
 
